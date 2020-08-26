@@ -2,7 +2,8 @@
 
 Young aspiring coder, currently studying HTML, CSS, and Java.
 
-### Past Projects
+
+## Past Projects
 
 Disturbance 2055
 
