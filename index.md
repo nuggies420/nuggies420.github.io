@@ -19,7 +19,6 @@ This link shows gameplay (font is incorrect due to human error of the recorder).
 ### Tower Siege
 
 ![new logoo](https://user-images.githubusercontent.com/70152388/91458017-0f02e900-e853-11ea-9757-367e38edfc57.png)
-![new logo](https://user-images.githubusercontent.com/70152388/91457794-c51a0300-e852-11ea-8418-8a17219d638d.png)
 
 Written in C#, this is a standard tower defense game based on the medieval times.
 
