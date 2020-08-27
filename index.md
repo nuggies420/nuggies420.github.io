@@ -13,7 +13,7 @@ Written in Python, this short platformer takes you back to Earth in the year 205
 
 https://www.youtube.com/watch?v=3sPkB8t9isI
 
-This link shows gameplay (font is incorrect due to human error of the recorder).
+This link displays gameplay (font is incorrect due to human error of the recorder).
 
 
 ### Tower Siege
