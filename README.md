@@ -4,5 +4,4 @@
 
 https://www.youtube.com/watch?v=3sPkB8t9isI
 
-![app logoo](https://user-images.githubusercontent.com/70152388/91458576-ae27e080-e853-11ea-971b-0aa47426aba8.png)
 ![new logoo](https://user-images.githubusercontent.com/70152388/91458017-0f02e900-e853-11ea-9757-367e38edfc57.png)
